@@ -1,0 +1,22 @@
+## .NET build output
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.userosscache
+*.sln.docstates
+
+## Rider / VS Code
+.idea/
+.vscode/
+*.swp
+
+## Publish output
+publish/
+artifacts/
+*.nupkg
+
+## Local app data / logs
+*.log
+error.log
